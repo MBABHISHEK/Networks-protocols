@@ -4,7 +4,7 @@ This repository contains implementations of various application layer protocols.
 
 ## Protocols Implemented
 
-1. **Protocol 1:**
+1. **FTP (File Transfer Protocol)**
    - Description: [Provide a brief description of Protocol 1.]
    - Implementation: [Provide details about the implementation, where to find the code, etc.]
 
