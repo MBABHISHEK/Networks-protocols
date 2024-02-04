@@ -8,9 +8,21 @@ This repository contains implementations of various application layer protocols.
    - Description: [Provide a brief description of Protocol 1.]
    - Implementation: [Provide details about the implementation, where to find the code, etc.]
 
-2. **Protocol 2:**
+2. **HTTP (Hypert Text Transfer Protocol)**
    - Description: [Provide a brief description of Protocol 2.]
    - Implementation: [Provide details about the implementation, where to find the code, etc.]
+   - 
+3. **HTTPS (Hypert Text Transfer Protocol Secure)**
+   - Description: [Provide a brief description of Protocol 2.]
+   - Implementation: [Provide details about the implementation, where to find the code, etc.]
+
+4.**SMTP (Simple Main Transfer Protocol)** 
+
+5.**Soctets**
+
+6.**Encyption and Decryption**
+
+7.**Authorization and Authentication**
 
 [Add more sections for each implemented protocol as needed.]
 
